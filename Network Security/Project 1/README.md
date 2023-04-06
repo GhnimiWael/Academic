@@ -23,8 +23,8 @@ To start the network simulation, follow these steps:
 - Use the console tabs in the GNS3 interface to configure the devices and test the network.
 - Or, Automate it using the mentioned scripts.
 
-### Walkthrough
-For a step-by-step walkthrough of the Backbone Model Setup Mockup IP/MPLS project, please see the walkthrough.md file in the root directory of this repository. The walkthrough provides detailed instructions for setting up the network topology, configuring the devices, and testing the network performance and security. It also includes screenshots and code snippets to help guide you through the process.
+### <a href="https://github.com/GhnimiWael/Academic/blob/main/Network%20Security/Project%201/walkthrough.md">Walkthrough</a>
+For a step-by-step walkthrough of the Backbone Model Setup Mockup IP/MPLS project, please see the <a href="https://github.com/GhnimiWael/Academic/blob/main/Network%20Security/Project%201/walkthrough.md">walkthrough.md</a> file in the root directory of this repository. The walkthrough provides detailed instructions for setting up the network topology, configuring the devices, and testing the network performance and security. It also includes screenshots and code snippets to help guide you through the process.
 
 ### Contributing
 We welcome contributions to this project. To contribute, please fork this repository, make your changes, and submit a pull request.
